@@ -4,6 +4,6 @@ Degree of Bachelor of Engineeringin Computer Science and Engineering
 Submitted by
 Ajaykumar Majukar & Nadeem Nakkashi
 
-Software Required :
+Software's Required :
 Sublime Text Build 3176 x64 Setup
 xampp-win32-7.3.0-0-VC15-installer
